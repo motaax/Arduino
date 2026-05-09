@@ -1,2 +1,1 @@
-# Arduino
-Projetos feitos com Arduino
+# Projetos feitos com Arduino
